@@ -55,7 +55,7 @@
       "setup": "npm install prompt",
       "run": "node task-5/main.js",
       "input": "+5-2+4-m/n*2:4",
-      "output": "4",
+      "output": "5",
       "comparison": "included",
       "timeout": 10,
       "points": 100
