@@ -46,7 +46,7 @@ Yeganə ədəd - göstərilən əməllərin sayı.
 **Çıxış verilənləri**
 
 ```
-4
+5
 ```
 
 
